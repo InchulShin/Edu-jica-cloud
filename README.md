@@ -2,8 +2,6 @@
 
 <p align="center"><img src="jica-logo.png"></p>
 
-<p align="center"><img src="thumb.course-cloud.jpg"></p>
-
 <p align="center"><img src="cloud-course.jpg"></p>
 
 <!--
@@ -14,6 +12,7 @@
 <p align="center"><img src="thumb.course-cloud.jpg"></p>
 
 <p align="center"><img src="cloud-course.jpg"></p>
+
 </div>
 </details>
 -->
