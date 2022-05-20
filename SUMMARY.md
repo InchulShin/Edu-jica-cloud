@@ -1,12 +1,13 @@
 # Table of contents
 
+* [전주정보문화산업진흥원](README.md)
 * [클라우드 플랫폼으로 개발 및 운영 환경 구성하기](Cloud-Platform/README.md)
   * [워크샵 시작 전 준비 사항](Cloud-Platform/0.preparation-guide/preparation-guide.md)
     * [AWS 계정으로 시작](Cloud-Platform/0.preparation-guide/10-aws-account.md)
     * [추가 설정하기](Cloud-Platform/0.preparation-guide/30-addition-setting.md)
   * [기초 모듈](Cloud-Platform/1.basic-modules/basic-modules.md)
     * [1.컴퓨트 - Amazon EC2](Cloud-Platform/1.basic-modules/10-ec2.md)
-      * [Cloud9 실습](Cloud-Platform/1.basic-modules/10-ec2/cloud9.md)
+      * [Cloud9 실습](cloud-platform/basic-modules/10-ec2/cloud9/README.md)
         * [Cloud9 개발 환경에 대한 생성 및 구성하기](Cloud-Platform/1.basic-modules/10-ec2/cloud9/01.AWS-cloud9-IDE-Python.md)
         * [Cloud9 Python 개발 환경 구성하기](Cloud-Platform/1.basic-modules/10-ec2/cloud9/02.AWS-Cloud9-Python-pip2.md)
         * [Cloud9 BOTO3 구성하기](Cloud-Platform/1.basic-modules/10-ec2/cloud9/03.AWS-Python-boto3-Basic.md)
@@ -32,7 +33,7 @@
         * [S3 버킷에 객체 추가하기](Cloud-Platform/1.basic-modules/60-s3/s3/2-s3.md)
         * [S3 콘솔에서 객체 작업하기](Cloud-Platform/1.basic-modules/60-s3/s3/3-s3.md)
         * [S3 버킷에 저장되어 있는 객체 접근하기](Cloud-Platform/1.basic-modules/60-s3/s3/4-s3.md)
-        * [버킷 versioning 활성화하기](1.basic-modules/60-s3/s3/5-s3.md)
+        * [버킷 versioning 활성화하기](cloud-platform/basic-modules/60-s3/s3/versioning.md)
         * [수명 주기 설정하기](Cloud-Platform/1.basic-modules/60-s3/s3/6-s3.md)
         * [실습 자원 삭제하기](Cloud-Platform/1.basic-modules/60-s3/s3/7-s3.md)
     * [3.네트워크 - Amazon VPC](Cloud-Platform/1.basic-modules/20-vpc.md)
@@ -76,12 +77,12 @@
     * [1.컴퓨트 – Amazon EC2](Cloud-Platform/2.advanced-modules/compute.md)
       * [웹 서버 인스턴스의 시작](Cloud-Platform/2.advanced-modules/compute/10-launching.md)
       * [오토 스케일링 웹 서비스 배포](Cloud-Platform/2.advanced-modules/compute/20-auto-scaling.md)
-      * [웹 서비스 확인 및 테스트](Cloud-Platform/2.advanced-modules/compute/undefined.md)
+      * [웹 서비스 확인 및 테스트](cloud-platform/advanced-modules/compute/undefined.md)
       * [부록 - 추가적인 EC2 개념들](Cloud-Platform/2.advanced-modules/compute/40-appendix.md)
     * [2.스토리지 – Amazon S3](Cloud-Platform/2.advanced-modules/storage.md)
       * [S3에 Bucket 생성](Cloud-Platform/2.advanced-modules/storage/create-bucket.md)
       * [버킷에 오브젝트 추가하기](Cloud-Platform/2.advanced-modules/storage/put-object.md)
-      * [오브젝트 보기](Cloud-Platform/2.advanced-modules/storage/put-object.md)
+      *
       * [정적 웹 사이트 호스팅 사용](Cloud-Platform/2.advanced-modules/storage/static-web-hosting.md)
       * [오브젝트 이동](Cloud-Platform/2.advanced-modules/storage/move-object.md)
       * [버킷 버저닝 활성화](Cloud-Platform/2.advanced-modules/storage/enable-versioning.md)
@@ -108,4 +109,7 @@
       * [(옵션) RDS 관리 기능](Cloud-Platform/2.advanced-modules/database/manage-rds.md)
       * [도전 과제 - RDS Aurora 연결](Cloud-Platform/2.advanced-modules/database/challenge-aurora.md)
     * [5.실습 리소스 정리](Cloud-Platform/2.advanced-modules/cleanup.md)
+<<<<<<< HEAD
 -->
+=======
+>>>>>>> 6e808e11a6db754c6a1e0d2eff090a9039b58315
