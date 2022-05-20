@@ -21,6 +21,7 @@
         * [(옵션) Session Manager를 사용하여 리눅스 인스턴스에 접근하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-linux/3-ec2-1.md)
         * [리눅스 인스턴스에 접근하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-linux/3-ec2.md)
         * [(옵션) PuTTy를 사용해서 리눅스 인스턴스에 접근하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-linux/4-ec2.md)
+        * [phpMyAdmin-부하테스트하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-linux/AWS-ec2-lamp-amazon-linux-2.md)
         * [실습 자원 삭제하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-linux/5-ec2.md)
       * [EC2 Windows 실습](Cloud-Platform/1.basic-modules/10-ec2/ec2-windows.md)
         * [키페어 생성하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-windows/1-ec2.md)
