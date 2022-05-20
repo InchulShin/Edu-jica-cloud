@@ -6,7 +6,7 @@
     * [AWS 계정 생성](Cloud-Platform/0.preparation-guide/create-aws-account.md)
     * [AWS 계정으로 시작](Cloud-Platform/0.preparation-guide/10-aws-account.md)
     * [추가 설정하기](Cloud-Platform/0.preparation-guide/30-addition-setting.md)
-    * [AWS 비용 알람](Cloud-Platform/0.preparation-guide/AWS-Cost-Alarm.mdd)
+    * [AWS 비용 알람](Cloud-Platform/0.preparation-guide/AWS-Cost-Alarm.md)
   * [기초 모듈](Cloud-Platform/1.basic-modules/basic-modules.md)
     * [1.컴퓨트 - Amazon EC2](Cloud-Platform/1.basic-modules/10-ec2.md)
       * [Cloud9 실습](cloud-platform/basic-modules/10-ec2/cloud9/README.md)
