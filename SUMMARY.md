@@ -82,7 +82,7 @@
     * [2.스토리지 – Amazon S3](Cloud-Platform/2.advanced-modules/storage.md)
       * [S3에 Bucket 생성](Cloud-Platform/2.advanced-modules/storage/create-bucket.md)
       * [버킷에 오브젝트 추가하기](Cloud-Platform/2.advanced-modules/storage/put-object.md)
-      *
+      * [오브젝트 보기](Cloud-Platform/2.advanced-modules/storage/view-object.md)
       * [정적 웹 사이트 호스팅 사용](Cloud-Platform/2.advanced-modules/storage/static-web-hosting.md)
       * [오브젝트 이동](Cloud-Platform/2.advanced-modules/storage/move-object.md)
       * [버킷 버저닝 활성화](Cloud-Platform/2.advanced-modules/storage/enable-versioning.md)
