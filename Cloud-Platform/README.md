@@ -81,11 +81,11 @@
 </div>
 </details>
 
-
+<!--
 <details>
 <summary>심화 모듈</summary>
 <div markdown="1">
-<!--
+
 - [심화 모듈 - 웹 애플리케이션](./2.advanced-modules/advanced-modules.md)
     - [1.컴퓨트 – Amazon EC2](./2.advanced-modules/compute.md)
         - [웹 서버 인스턴스의 시작](./2.advanced-modules/compute/10-launching.md)
@@ -123,6 +123,7 @@
         - [(옵션) RDS 관리 기능](./2.advanced-modules/database/manage-rds.md)
         - [도전 과제 - RDS Aurora 연결](./2.advanced-modules/database/challenge-aurora.md)
     - [5.실습 리소스 정리](./2.advanced-modules/cleanup.md)
--->
+
 </div>
 </details>
+-->
