@@ -311,7 +311,7 @@ http://my.public.dns.amazonaws.com/phpMyAdmin
 
 사용자는 phpMyAdmin 로그인 페이지를 볼 수 있어야 합니다:
 
-![phpmyadmin_login](./images/phpmyadmin_login.png)
+![phpmyadmin_login](../../images/phpmyadmin_login.png)
 
 10. 앞서 만든 root 사용자 이름 및 MySQL 루트 암호로 phpMyAdmin 설치에 로그인합니다.
 
