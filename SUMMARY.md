@@ -71,6 +71,7 @@
           * [오토 스케일링 그룹 테스트하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-auto-scaling/5-ec2-as.md)
           * [실습 자원 삭제하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-auto-scaling/6-ec2-as.md)
         * [실습 자원 삭제하기](Cloud-Platform/1.basic-modules/40-monitoring/monitoring/4-monitoring.md)
+<!--
   * [심화 모듈 - 웹 애플리케이션](Cloud-Platform/2.advanced-modules/advanced-modules.md)
     * [1.컴퓨트 – Amazon EC2](Cloud-Platform/2.advanced-modules/compute.md)
       * [웹 서버 인스턴스의 시작](Cloud-Platform/2.advanced-modules/compute/10-launching.md)
@@ -107,3 +108,4 @@
       * [(옵션) RDS 관리 기능](Cloud-Platform/2.advanced-modules/database/manage-rds.md)
       * [도전 과제 - RDS Aurora 연결](Cloud-Platform/2.advanced-modules/database/challenge-aurora.md)
     * [5.실습 리소스 정리](Cloud-Platform/2.advanced-modules/cleanup.md)
+-->
