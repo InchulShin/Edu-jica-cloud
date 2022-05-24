@@ -66,6 +66,8 @@
         * [Simple Notification Service (SNS) 토픽 생성하기](Cloud-Platform/1.basic-modules/40-monitoring/monitoring/1-monitoring.md)
         * [Elastic Compute Cloud (EC2) 인스턴스 생성하기](Cloud-Platform/1.basic-modules/40-monitoring/monitoring/2-monitoring.md)
         * [CloudWatch Alarm 구성하기](Cloud-Platform/1.basic-modules/40-monitoring/monitoring/3-monitoring.md)
+      * [ELB 로드밸런서](Cloud-Platform/1.basic-modules/40-monitoring/5.ELB/README.md)
+        * [ELB 생성하기](Cloud-Platform/1.basic-modules/40-monitoring/5.ELB/5-1.create-elb.md)
       * [오토스케일링](Cloud-Platform/1.basic-modules/10-ec2/ec2-auto-scaling.md)
         * [EC2 오토스케일링 실습](Cloud-Platform/1.basic-modules/10-ec2/ec2-auto-scaling/ec2-auto-scaling.md)
           * [실습 준비](Cloud-Platform/1.basic-modules/10-ec2/ec2-auto-scaling/1-ec2-as.md)
