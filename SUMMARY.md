@@ -82,7 +82,7 @@
     * [1.컴퓨트 – Amazon EC2](Cloud-Platform/2.advanced-modules/compute.md)
       * [웹 서버 인스턴스의 시작](Cloud-Platform/2.advanced-modules/compute/10-launching.md)
       * [오토 스케일링 웹 서비스 배포](Cloud-Platform/2.advanced-modules/compute/20-auto-scaling.md)
-      * [웹 서비스 확인 및 테스트](cloud-platform/advanced-modules/compute/undefined.md)
+      * [웹 서비스 확인 및 테스트](cloud-platform/2.advanced-modules/compute/30-test-service.md)
       * [부록 - 추가적인 EC2 개념들](Cloud-Platform/2.advanced-modules/compute/40-appendix.md)
     * [2.스토리지 – Amazon S3](Cloud-Platform/2.advanced-modules/storage.md)
       * [S3에 Bucket 생성](Cloud-Platform/2.advanced-modules/storage/create-bucket.md)
