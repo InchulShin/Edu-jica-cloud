@@ -69,7 +69,7 @@ Auto Scaling Group의 모범 사례는 프라이빗 서브넷만 선택하는 �
 
 빠른 실습 진행을 위해서 목표 CPU 사용률을 낮게 설정하겠습니다.
 
-![](../../3.4-scaling-policies.png)
+![](../../images/3.4-scaling-policies.png)
 
 9. Notifications 추가하기:
 

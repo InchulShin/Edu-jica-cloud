@@ -3,7 +3,7 @@ Auto-Scaling 그룹에 대한 AMI(Amazon Machine Image)를 생성하려면 먼�
 
 ## CloudFormation 템플릿 다운로드 및 실행하기
 
-1. [해당 링크}(https://static.us-east-1.prod.workshops.aws/public/a24595bd-ccdc-448e-8a16-71e415d3e56b/static/common/ec2_auto_scaling/EC2-Auto-Scaling-Lab.yaml) 를 오른쪽 클릭 하여 CloudFormation 템플릿인 "EC2-Auto-Scaling-Lab.yaml" 파일을 다운로드하고 로컬 드라이드에 파일을 저장합니다.
+1. [해당 링크](https://static.us-east-1.prod.workshops.aws/public/a24595bd-ccdc-448e-8a16-71e415d3e56b/static/common/ec2_auto_scaling/EC2-Auto-Scaling-Lab.yaml) 를 오른쪽 클릭 하여 CloudFormation 템플릿인 "EC2-Auto-Scaling-Lab.yaml" 파일을 다운로드하고 로컬 드라이드에 파일을 저장합니다.
 
 2. AWS 콘솔에서 CloudFormation 을 검색하거나 Services 메뉴를 선택하고 "Management & Governance" 밑에 위치한 CloudFormation 을 클릭합니다.
 
