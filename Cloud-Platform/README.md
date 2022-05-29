@@ -81,7 +81,6 @@
 </div>
 </details>
 
-<!--
 <details>
 <summary>심화 모듈</summary>
 <div markdown="1">
@@ -126,4 +125,3 @@
 
 </div>
 </details>
--->
