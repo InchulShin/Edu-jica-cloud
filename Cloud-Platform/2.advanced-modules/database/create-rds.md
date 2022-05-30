@@ -25,7 +25,7 @@ Master password | awspassword
 
 5. DB instance size 와 Availability & durability 항목이 아래와 같은지 확인합니다. 메모리 최적화 인스턴스 클래스와 다른 가용 영역에 읽기 전용 복제 노드를 구성 하는 것이 기본값으로 설정되어 있습니다.
 
-![](../images/gid-rds-10.png )
+![](../images/gid-rds-10.png)
 
 6. Connectivity 란에서 네트워크 및 보안을 설정합니다. Virtual private cloud (VPC) 란에 앞서 생성한 VPC-Lab을 선택하고, RDS 인스턴스가 운영될 VPC, 서브넷, VPC 외부로부터의 접근 허용여부 및 보안 그룹을 지정합니다. 아래의 내용대로 설정하시면 됩니다.
 
