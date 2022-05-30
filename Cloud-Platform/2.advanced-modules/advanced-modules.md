@@ -26,4 +26,4 @@ AWS의 핵심 서비스(VPC, EC2, RDS, S3)를 소개하는 세션과 아래의 �
 모든 실습은 서로 유기적으로 연결되어 있습니다.
 따라서 실습은 순서대로 하나씩 차례대로 진행해야 합니다.
 
-[Previous](../README.md) | [Next](./network.md)
+<!-- [Previous](../README.md) | [Next](./network.md)
