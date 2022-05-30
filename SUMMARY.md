@@ -95,6 +95,7 @@
       * [VPC 생성](Cloud-Platform/2.advanced-modules/network/10-index.md)
       * [(옵션) VPC 엔드포인트](Cloud-Platform/2.advanced-modules/network/20-index.md)
       * [부록 - 추가적인 VPC 개념들](Cloud-Platform/2.advanced-modules/network/30-index.md)
+<!--
       * [Amazon API Gateway](Cloud-Platform/1.basic-modules/20-vpc/api-gateway.md)
         * [전제 조건 및 Lambda 배포](Cloud-Platform/1.basic-modules/20-vpc/api-gateway/1-apigateway.md)
         * [첫 번째 API 만들기](Cloud-Platform/1.basic-modules/20-vpc/api-gateway/2-apigateway.md)
@@ -105,6 +106,7 @@
         * [메시지 캐싱(선택 사항)](Cloud-Platform/1.basic-modules/20-vpc/api-gateway/7-apigateway.md)
         * [사용 계획 및 메시지 조절(선택 사항)](Cloud-Platform/1.basic-modules/20-vpc/api-gateway/8-apigateway.md)
         * [리소스 정리](Cloud-Platform/1.basic-modules/20-vpc/api-gateway/9-apigateway.md)
+-->
     * [4.데이터베이스 – Amazon Aurora](Cloud-Platform/2.advanced-modules/database.md)
       * [VPC 보안 그룹 생성](Cloud-Platform/2.advanced-modules/database/create-sg.md)
       * [RDS 인스턴스 생성](Cloud-Platform/2.advanced-modules/database/create-rds.md)
