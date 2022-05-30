@@ -113,7 +113,3 @@
       * [(옵션) RDS 관리 기능](Cloud-Platform/2.advanced-modules/database/manage-rds.md)
       * [도전 과제 - RDS Aurora 연결](Cloud-Platform/2.advanced-modules/database/challenge-aurora.md)
     * [5.실습 리소스 정리](Cloud-Platform/2.advanced-modules/cleanup.md)
-<<<<<<< HEAD
-    
-=======
->>>>>>> f2d75c0bf7981dc0eac27f2988eab7f8d18779bc
