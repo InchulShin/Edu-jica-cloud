@@ -112,8 +112,10 @@ Security group name과 Description에 Immersion Day - Web Server 를 입력 후,
 
 ![](../images/gid-ec2-23.png)
 
+<!--
 ## Session Manager를 사용하여 리눅스 인스턴스에 접속
 이어질 데이터베이스 실습에서 웹 서버에 부여된 IAM Role을 사용하여 RDS에 접속합니다. 이에 Session Manager를 사용하여 리눅스 인스턴스에 접근하기를 참고하여 EC2 인스턴스에 IAM Role을 부여합니다.
+-->
 
 ## 커스텀 AMI 생성
 AWS EC2 콘솔에서는 생성된 인스턴스를 이용하여 이미지를 만들고, 추후 인스턴스 생성 시 이 이미지를 사용할 수 있습니다. 이를 커스텀 AMI라고 부릅니다.
@@ -156,4 +158,4 @@ Image description | LAMP web server AMI
 
 ![](../images/gid-ec2-32.svg)
 
-[Previous](../compute.md) | [Next](./20-auto-scaling.md)
+<!--[Previous](../compute.md) | [Next](./20-auto-scaling.md)

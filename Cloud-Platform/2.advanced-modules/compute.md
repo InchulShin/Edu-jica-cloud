@@ -38,4 +38,4 @@ EC2[Amazon Elastic Compute Cloud(Amazon EC2)는 안전하고 크기 조정이 �
 
 ![](./images/gid-ec2-02.png)
 
-[Previous](./network/30-index.md) | [Next](./compute/10-launching.md)
+<!-- [Previous](./network/30-index.md) | [Next](./compute/10-launching.md)
