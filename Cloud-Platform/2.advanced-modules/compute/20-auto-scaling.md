@@ -168,4 +168,4 @@ Value | ASG-Web-Instance
 
 ![](../images/gid-ec2-66.svg)
 
-[Previous](./launching.md) | [Next](./30-test-service.md)
+<!-- [Previous](./launching.md) | [Next](./30-test-service.md)
