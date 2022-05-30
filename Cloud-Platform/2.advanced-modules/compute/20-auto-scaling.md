@@ -102,7 +102,7 @@ Key | Name
 Value | Web Instance
 Tag Volumes | volumes 체크 박스 클릭
 
-6. 마지막으로 Advanced details 탭에서 IAM instance profile을 SSMInstanceProfile로 설정합니다. 이외의 다른 설정들은 모두 기본값으로 두고, 우측 하단의 Create launch template 버튼을 눌러 시작 템플릿을 생성합니다.
+6. 마지막으로 Advanced details 탭에서 IAM instance profile을 SSMInstanceProfile로 설정합니다. [SSMInstanceProfile 설정]()은 여기입니다. 이외의 다른 설정들은 모두 기본값으로 두고, 우측 하단의 Create launch template 버튼을 눌러 시작 템플릿을 생성합니다.
 
 ![](../images/gid-ec2-37.png)
 
