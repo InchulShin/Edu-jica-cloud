@@ -60,4 +60,4 @@ DB parameter group | default.aurora5.7
 
 ![](../images/gid-rds-100.svg)
 
-[Previous](./create-sg.md) | [Next](./connect-app.md)
+<!-- [Previous](./create-sg.md) | [Next](./connect-app.md)
