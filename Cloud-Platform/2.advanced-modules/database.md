@@ -21,4 +21,4 @@ AWS에서 사용하실 수 있는 여러 Database 옵션 중, Amazon RDS(Relatio
 
 - 도전 과제 - RDS Aurora 연결
 
-[Previous](./compute/40-appendix.md) | [Next](./database/create-sg.md)
+<!-- [Previous](./compute/40-appendix.md) | [Next](./database/create-sg.md)
