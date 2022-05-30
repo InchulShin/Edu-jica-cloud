@@ -77,12 +77,11 @@
           * [오토 스케일링 그룹 테스트하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-auto-scaling/5-ec2-as.md)
           * [실습 자원 삭제하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-auto-scaling/6-ec2-as.md)
         * [실습 자원 삭제하기](Cloud-Platform/1.basic-modules/40-monitoring/monitoring/4-monitoring.md)
-
   * [심화 모듈 - 웹 애플리케이션](Cloud-Platform/2.advanced-modules/advanced-modules.md)
     * [1.컴퓨트 – Amazon EC2](Cloud-Platform/2.advanced-modules/compute.md)
       * [웹 서버 인스턴스의 시작](Cloud-Platform/2.advanced-modules/compute/10-launching.md)
       * [오토 스케일링 웹 서비스 배포](Cloud-Platform/2.advanced-modules/compute/20-auto-scaling.md)
-      * [웹 서비스 확인 및 테스트](cloud-platform/2.advanced-modules/compute/30-test-service.md)
+      * [웹 서비스 확인 및 테스트](cloud-platform/advanced-modules/compute/undefined.md)
       * [부록 - 추가적인 EC2 개념들](Cloud-Platform/2.advanced-modules/compute/40-appendix.md)
     * [2.스토리지 – Amazon S3](Cloud-Platform/2.advanced-modules/storage.md)
       * [S3에 Bucket 생성](Cloud-Platform/2.advanced-modules/storage/create-bucket.md)
@@ -114,4 +113,7 @@
       * [(옵션) RDS 관리 기능](Cloud-Platform/2.advanced-modules/database/manage-rds.md)
       * [도전 과제 - RDS Aurora 연결](Cloud-Platform/2.advanced-modules/database/challenge-aurora.md)
     * [5.실습 리소스 정리](Cloud-Platform/2.advanced-modules/cleanup.md)
+<<<<<<< HEAD
     
+=======
+>>>>>>> f2d75c0bf7981dc0eac27f2988eab7f8d18779bc
