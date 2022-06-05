@@ -107,7 +107,7 @@ Port range   Protocol     Source
 중요
 Amazon Linux을 사용하지 않는 경우, 이러한 연결을 허용하도록 인스턴스의 방화벽을 구성할 필요가 있습니다. 방화벽 구성 방법에 대한 자세한 내용은 사용자의 특정 배포에 대한 문서를 참조하십시오.
 
-![apache_test_page_al2_2.4](./images/apache_test_page_al2_2.4.png)
+![apache_test_page_al2_2.4](../../images/apache_test_page_al2_2.4.png)
 
 Apache httpd는 Apache document root라는 디렉터리에 보관된 파일을 처리합니다. Amazon Linux Apache 문서 루트는 /var/www/html이며, 기본적으로 루트에서 소유합니다.
 
