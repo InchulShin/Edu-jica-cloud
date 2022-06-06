@@ -36,7 +36,7 @@
         * [S3 버킷에 객체 추가하기](Cloud-Platform/1.basic-modules/60-s3/s3/2-s3.md)
         * [S3 콘솔에서 객체 작업하기](Cloud-Platform/1.basic-modules/60-s3/s3/3-s3.md)
         * [S3 버킷에 저장되어 있는 객체 접근하기](Cloud-Platform/1.basic-modules/60-s3/s3/4-s3.md)
-        * [버킷 versioning 활성화하기](cloud-platform/1.basic-modules/60-s3/s3/5-s3.md)
+        * [버킷 versioning 활성화하기](Cloud-Platform/1.basic-modules/60-s3/s3/5-s3.md)
         * [수명 주기 설정하기](Cloud-Platform/1.basic-modules/60-s3/s3/6-s3.md)
         * [실습 자원 삭제하기](Cloud-Platform/1.basic-modules/60-s3/s3/7-s3.md)
     * [3.네트워크 - Amazon VPC](Cloud-Platform/1.basic-modules/20-vpc.md)
