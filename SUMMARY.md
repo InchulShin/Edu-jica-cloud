@@ -32,7 +32,7 @@
         * [실습 자원 삭제하기](Cloud-Platform/1.basic-modules/10-ec2/ec2-windows/99-ec2.md)
     * [2.스토리지 - Amazon S3](Cloud-Platform/1.basic-modules/60-s3.md)
       * [Amazon S3 실습](Cloud-Platform/1.basic-modules/60-s3/s3.md)
-        * [S3 생성하기](Cloud-Platform/1.basic-modules/60-s3/s3/1-s3.md)
+        * [S3 버킷 생성하기](Cloud-Platform/1.basic-modules/60-s3/s3/1-s3.md)
         * [S3 버킷에 객체 추가하기](Cloud-Platform/1.basic-modules/60-s3/s3/2-s3.md)
         * [S3 콘솔에서 객체 작업하기](Cloud-Platform/1.basic-modules/60-s3/s3/3-s3.md)
         * [S3 버킷에 저장되어 있는 객체 접근하기](Cloud-Platform/1.basic-modules/60-s3/s3/4-s3.md)
