@@ -174,9 +174,10 @@ LAMP 서버를 테스트하려면
 2. 웹 브라우저에서는 방금 생성한 파일의 URL을 입력합니다. 이 URL은 인스턴스의 퍼블릭 DNS 주소에 슬래시(/)와 파일 이름이 추가된 형태입니다. 다음 예를 참조하십시오.
 
 http://my.public.dns.amazonaws.com/phpinfo.php
+
 PHP 정보 페이지가 표시되어야 합니다:
 
-![phpinfo7.2.10](./images/phpinfo7.2.10.png)
+![phpinfo7.2.10](../../images/phpinfo7.2.10.png)
 
 이 페이지가 보이지 않을 경우 이전 단계에서 /var/www/html/phpinfo.php 파일이 제대로 생성되었는지 확인하십시오. 또한 다음 명령을 사용하여 필수 패키지가 모두 설치되었는지도 확인할 수 있습니다.
 
