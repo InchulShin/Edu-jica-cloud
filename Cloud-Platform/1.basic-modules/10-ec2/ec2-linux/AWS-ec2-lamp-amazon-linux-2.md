@@ -2,10 +2,8 @@
 
 다음 절차를 통해 Amazon Linux 2 인스턴스에서 PHP 및 MariaDB(커뮤니티에서 개발한 MySQL 포크) 지원을 포함하는 Apache 웹 서버를 설치할 수 있습니다. 이 웹 서버를 LAMP 웹 서버 또는 LAMP 스택이라고도 합니다. 이 서버를 사용해서 고정 웹사이트를 호스팅하거나 데이터베이스에서 정보를 읽고 쓰는 동적 PHP 애플리케이션을 배포할 수 있습니다.
 
-```
-중요
+중요  
 Ubuntu 또는 Red Hat Enterprise, Linux와 같은 다른 배포에서 LAMP 웹 서버를 설정하려는 경우 이 자습서를 이용할 수 없습니다. Amazon Linux AMI의 경우 자습서: Amazon Linux AMI에 LAMP 웹 서버 설치 섹션을 참조하세요. Ubuntu의 경우 Ubuntu 커뮤니티 설명서 ApacheMySQLPHP를 참조하세요. 다른 배포는 관련 설명서를 참조하세요.
-```
 
 ## 작업
 
